@@ -44,6 +44,8 @@ pip install -r requirements.txt
 - ~500 tracks with lyrics (via Genius API)
 - ~2,500 tracks use metadata as text fallback
 
+Dataset link can be found in the report
+
 ---
 
 ## Easy Task Files
